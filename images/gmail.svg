@@ -1,0 +1,60 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 230.874 167.676">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eaeaea;
+      }
+
+      .cls-2 {
+        fill: #dd4131;
+      }
+
+      .cls-3 {
+        fill: #b63524;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: #efefef;
+      }
+
+      .cls-6 {
+        fill: #c64132;
+      }
+
+      .cls-7 {
+        fill: #e3e3e3;
+      }
+
+      .cls-8 {
+        fill: url(#Degradado_sin_nombre_3);
+      }
+
+      .cls-9 {
+        fill: url(#Degradado_sin_nombre_2);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_3" data-name="Degradado sin nombre 3" x1="35.344" y1="88.371" x2="121.917" y2="88.371" gradientTransform="matrix(1, 0, 0, -1, -6.48, 166.316)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c8c8c8"/>
+      <stop offset="1" stop-color="#cdcdcd"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_2" data-name="Degradado sin nombre 2" x1="105.876" y1="61.774" x2="208.573" y2="61.774" gradientTransform="matrix(1, 0, 0, -1, -6.48, 166.316)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9d9d9"/>
+      <stop offset="1" stop-color="#e2e2e2"/>
+    </linearGradient>
+  </defs>
+  <title>GMail</title>
+  <polygon class="cls-1" points="202.398 37.265 29.167 37.265 28.739 167.676 202.398 167.588 202.398 37.265"/>
+  <path class="cls-2" d="M35.218,170.64l-14.309-.088A14.2,14.2,0,0,1,6.48,156.587V16.93A14.2,14.2,0,0,1,20.909,2.964h0A14.2,14.2,0,0,1,35.339,16.93Z" transform="translate(-6.48 -2.964)"/>
+  <path class="cls-3" d="M208.573,170.64l14.351-.088a14.2,14.2,0,0,0,14.43-13.966V16.93a14.2,14.2,0,0,0-14.43-13.966h0a14.2,14.2,0,0,0-14.43,13.966Z" transform="translate(-6.48 -2.964)"/>
+  <path class="cls-2" d="M231.187,28.382a13.832,13.832,0,0,0,6.166-11.452,14.2,14.2,0,0,0-14.43-13.966,14.705,14.705,0,0,0-8.263,2.514L121.926,70.823l-.01,0-.01,0L29.173,5.478a14.705,14.705,0,0,0-8.263-2.514A14.2,14.2,0,0,0,6.48,16.93a13.832,13.832,0,0,0,6.166,11.452l-.385-.275,109.655,77.272" transform="translate(-6.48 -2.964)"/>
+  <line class="cls-4" x1="225.097" y1="25.143" x2="115.437" y2="102.415"/>
+  <path class="cls-5" d="M222.924,2.964a14.705,14.705,0,0,0-8.263,2.514L121.926,70.823l-.01,0-.01,0L29.173,5.478a14.705,14.705,0,0,0-8.263-2.514Z" transform="translate(-6.48 -2.964)"/>
+  <path class="cls-6" d="M35.344,50.392,11.025,27.078l-.01.019a14.357,14.357,0,0,0,1.631,1.285l-.385-.275,23.087,16.27,0,6.182" transform="translate(-6.48 -2.964)"/>
+  <polyline class="cls-7" points="99.41 114.477 28.859 167.589 28.864 46.846 99.396 114.458"/>
+  <polygon class="cls-8" points="99.41 114.477 115.437 102.415 28.864 41.413 28.864 46.846 99.396 114.458 99.41 114.477"/>
+  <polygon class="cls-9" points="154.209 167.589 202.093 167.676 202.015 41.408 115.437 102.415 99.396 114.458 154.209 167.589"/>
+</svg>
