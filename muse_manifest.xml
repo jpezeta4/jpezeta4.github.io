@@ -1,0 +1,619 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jpezeta4.github.io" resolutions="1x" timestamp="1567400074430">
+  <folder name="css">
+    <file name="site_global.css" crc="450064303"/>
+    <file name="index.css" crc="488104067" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="pf bague sans pro light.woff" crc="3840275720"/>
+    <file name="pf bague sans pro light.eot" crc="506577772"/>
+    <file name="pf bague sans pro light.svg" crc="407922713"/>
+    <file name="pf bague sans pro.woff" crc="3770293047"/>
+    <file name="pf bague sans pro.eot" crc="462402246"/>
+    <file name="pf bague sans pro.svg" crc="379474642"/>
+    <file name="pf bague sans pro medium.woff" crc="4185519218"/>
+    <file name="pf bague sans pro medium.eot" crc="4028384164"/>
+    <file name="pf bague sans pro medium.svg" crc="4105906381"/>
+    <file name="alpaca scarlett1.woff" crc="320328747"/>
+    <file name="alpaca scarlett1.eot" crc="4005115137"/>
+    <file name="alpaca scarlett1.svg" crc="3992884544"/>
+    <file name="pf bague sans pro thin.woff" crc="242899617"/>
+    <file name="pf bague sans pro thin.eot" crc="468560456"/>
+    <file name="pf bague sans pro thin.svg" crc="4122895354"/>
+    <file name="pf bague sans pro bold.woff" crc="459071141"/>
+    <file name="pf bague sans pro bold.eot" crc="408218028"/>
+    <file name="pf bague sans pro bold.svg" crc="3927896836"/>
+  </folder>
+  <folder name="assets">
+    <folder name="claqueta-web">
+      <file name="CLAQUETA Web.js" crc="4284096805" mt="1513796662000"/>
+      <file name="CLAQUETA Web.html" crc="474241246" mt="1513796662000"/>
+    </folder>
+    <folder name="perroani">
+      <file name="PerroAni.js" crc="3992444447" mt="1515546842000"/>
+      <file name="PerroAni.html" crc="3944739362" mt="1515546842000"/>
+    </folder>
+    <folder name="disenoani">
+      <file name="DisenoAni.js" crc="4037428117" mt="1515547052000"/>
+      <file name="DisenoAni.html" crc="4027404415" mt="1515547052000"/>
+    </folder>
+    <folder name="camani">
+      <file name="CamAni.js" crc="4214009029" mt="1515593720000"/>
+      <file name="CamAni.html" crc="313262904" mt="1515593720000"/>
+    </folder>
+    <file name="jpvideo.mp4" crc="3869509284" seo="true" mt="1541217974000"/>
+    <file name="jpzios.png" crc="363763023" seo="true" mt="1516174750000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="inicio-favicon.ico" crc="108283347" ref="index"/>
+    <file name="background_02.png" crc="342854311" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="play.svg" crc="4018253252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="play_poster_.png" crc="477021756" ref="index"/>
+    <file name="wolfpackback.jpg" crc="4096930018" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="service_01.jpg" crc="4067940640" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carpeta-fondo-text.svg" crc="4067972819" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carpeta fondo text_poster_.png" crc="4134884784" ref="index"/>
+    <file name="rojo-carpeta1.svg" crc="4043252588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rojo carpeta1_poster_.png" crc="3980588127" ref="index"/>
+    <file name="rojo-carpeta2.svg" crc="281496231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rojo carpeta2_poster_.png" crc="406018233" ref="index"/>
+    <file name="31murales.jpg" crc="4267038654" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31murales-u76922-r-fr.png" crc="465245887" ref="index"/>
+    <file name="logolima.svg" crc="4291623396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logolima_poster_.png" crc="122538468" ref="index"/>
+    <file name="32pepe.jpg" crc="333975222" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32pepe-u77396-r-fr.png" crc="515465056" ref="index"/>
+    <file name="33lucho.jpg" crc="3936402283" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33lucho-u77742-r-fr.png" crc="3774193313" ref="index"/>
+    <file name="21popeyes.jpg" crc="434011259" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21popeyes-u18543-r-fr.png" crc="4101645955" ref="index"/>
+    <file name="logodiapopeyes.png" crc="4226775644" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="18matchpoint.jpg" crc="282332771" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="18matchpoint-u55015-r-fr.png" crc="173395461" ref="index"/>
+    <file name="19rocknflavs.jpg" crc="171766874" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19rocknflavs-u55070-r-fr.png" crc="3787068540" ref="index"/>
+    <file name="20engagement.jpg" crc="348389684" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20engagement-u55088-r-fr.png" crc="3855259476" ref="index"/>
+    <file name="logouriel.png" crc="3821597138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17paradarte.jpg" crc="3927951426" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17paradarte-u17724-r-fr.png" crc="4082355945" ref="index"/>
+    <file name="paralisis.svg" crc="276464163" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="paralisis_poster_.png" crc="44329297" ref="index"/>
+    <file name="16weddingmoments.jpg" crc="3929038761" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16weddingmoments-u18251-r-fr.png" crc="442781842" ref="index"/>
+    <file name="logouriel2.png" crc="38294067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15undiavasco.jpg" crc="320467255" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15undiavasco-u18280-r-fr.png" crc="3978053951" ref="index"/>
+    <file name="14solojeans.jpg" crc="3923337997" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14solojeans-u18296-r-fr.png" crc="460177376" ref="index"/>
+    <file name="logosaga.svg" crc="92943061" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logosaga_poster_.png" crc="163386132" ref="index"/>
+    <file name="35clausurapp.jpg" crc="176399874" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="35clausurapp-u18288-r-fr.png" crc="422835296" ref="index"/>
+    <file name="11casacaliente.jpg" crc="3894900957" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11casacaliente-u18527-r-fr.png" crc="345770678" ref="index"/>
+    <file name="logoconcy.svg" crc="57886669" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logoconcy_poster_.png" crc="3909461539" ref="index"/>
+    <file name="12diamadre.jpg" crc="3987546567" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12diamadre-u18304-r-fr.png" crc="234371306" ref="index"/>
+    <file name="09utec.jpg" crc="4019276729" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="09utec-u18549-r-fr.png" crc="448370823" ref="index"/>
+    <file name="logomayo2019.svg" crc="450355434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logomayo2019_poster_.png" crc="123178131" ref="index"/>
+    <file name="34subcapperu.jpg" crc="4023158271" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="34subcapperu-u78212-r-fr.png" crc="3778990657" ref="index"/>
+    <file name="33subcapinter.jpg" crc="3974875828" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33subcapinter-u78198-r-fr.png" crc="4229436801" ref="index"/>
+    <file name="32subcapintro.jpg" crc="497883253" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32subcapintro-u78155-r-fr.png" crc="3784223038" ref="index"/>
+    <file name="25partido.jpg" crc="4090144199" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="25partido-u56173-r-fr.png" crc="4121990679" ref="index"/>
+    <file name="logomem214x46.jpg" crc="334446832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="24hidrocarburos.jpg" crc="181035832" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="24hidrocarburos-u56119-r-fr.png" crc="4039650255" ref="index"/>
+    <file name="23igafom.jpg" crc="248504374" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23igafom-u56137-r-fr.png" crc="4079550165" ref="index"/>
+    <file name="22paneles.jpg" crc="4209268374" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22paneles-u56064-r-fr.png" crc="4066672577" ref="index"/>
+    <file name="08jockeyferia.jpg" crc="465655009" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="08jockeyferia-u18836-r-fr.png" crc="118221187" ref="index"/>
+    <file name="logojockeysalud.svg" crc="408154085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logojockeysalud_poster_.png" crc="318577" ref="index"/>
+    <file name="07sugarpie.jpg" crc="4005998454" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="07sugarpie-u19751-r-fr.png" crc="3771329865" ref="index"/>
+    <file name="logospstudios.svg" crc="3892043575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logospstudios_poster_.png" crc="244711002" ref="index"/>
+    <file name="06haspro.jpg" crc="256086925" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06haspro-u19971-r-fr.png" crc="3822082916" ref="index"/>
+    <file name="logohas.svg" crc="4011156371" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logohas_poster_.png" crc="3899572293" ref="index"/>
+    <file name="05digitalizacion.jpg" crc="3906575213" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05digitalizacion-u20048-r-fr.png" crc="3863247672" ref="index"/>
+    <file name="02cosas.jpg" crc="4197572835" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02cosas-u20223-r-fr.png" crc="518747434" ref="index"/>
+    <file name="logocosas.svg" crc="266580381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logocosas_poster_.png" crc="56592112" ref="index"/>
+    <file name="04madmen.jpg" crc="276038773" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="04madmen-u20124-r-fr.png" crc="286754666" ref="index"/>
+    <file name="03gottaget.jpg" crc="4187052135" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03gottaget-u20178-r-fr.png" crc="3929468583" ref="index"/>
+    <file name="01banconacion.jpg" crc="224933814" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01banconacion-u20277-r-fr.png" crc="466411120" ref="index"/>
+    <file name="logobn.svg" crc="4175661093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logobn_poster_.png" crc="4006260781" ref="index"/>
+    <file name="min-nalm.jpg" crc="304478967" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="min-nalm-u80156-r-fr.png" crc="3819628364" ref="index"/>
+    <file name="logonalm.svg" crc="383284306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logonalm_poster_.png" crc="3775499782" ref="index"/>
+    <file name="26rayo.jpg" crc="410866946" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="26rayo-u20533-r-fr.png" crc="3900262649" ref="index"/>
+    <file name="27oro.jpg" crc="132123999" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="27oro-u55824-r-fr.png" crc="385701491" ref="index"/>
+    <file name="28eolica.jpg" crc="4009003504" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="28eolica-u55970-r-fr.png" crc="375093203" ref="index"/>
+    <file name="29alimentos.jpg" crc="3801882778" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="29alimentos-u55988-r-fr.png" crc="3947877199" ref="index"/>
+    <file name="30paneles.jpg" crc="3828000113" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="30paneles-u56006-r-fr.png" crc="134796011" ref="index"/>
+    <file name="ppk-listom.jpg" crc="227467165" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ppk-listom-u20413-r-fr.png" crc="4216884905" ref="index"/>
+    <file name="nuggetsm.jpg" crc="3939620884" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nuggetsm-u27779-r-fr.png" crc="3857178407" ref="index"/>
+    <file name="brochure-hasprom.jpg" crc="3763626145" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brochure-hasprom-u27831-r-fr.png" crc="238811698" ref="index"/>
+    <file name="webhasm.jpg" crc="4099237831" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webhasm-u28256-r-fr.png" crc="4033347018" ref="index"/>
+    <file name="polom.jpg" crc="3987269622" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="polom-u30399-r-fr.png" crc="493857816" ref="index"/>
+    <file name="rstones-logo.svg" crc="269659245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rstones logo_poster_.png" crc="438999855" ref="index"/>
+    <file name="whiskey.jpg" crc="4214504005" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whiskey-u28680-r-fr.png" crc="187246377" ref="index"/>
+    <file name="logokeepdrinking.svg" crc="207704016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logokeepdrinking_poster_.png" crc="354423275" ref="index"/>
+    <file name="cover-nalm.jpg" crc="4001073046" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grafica-rayo-u20538-fr.jpg" crc="3900558481" ref="index"/>
+    <file name="grafica-oro-u55856-fr.png" crc="86131939" ref="index"/>
+    <file name="grafica-eolica.jpg" crc="4133868596" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grafica-alimentos-u55997-fr.png" crc="4126052982" ref="index"/>
+    <file name="grafica-paneles.jpg" crc="4116937745" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sp-logo-mini-u20466-fr.jpg" crc="3902647014" ref="index"/>
+    <file name="sp-logo-mini-u20466-m-fr.png" crc="498927470" ref="index"/>
+    <file name="ppkmini-u20465-fr.jpg" crc="3907006499" ref="index"/>
+    <file name="ppkmini-u20465-m-fr.png" crc="4015478156" ref="index"/>
+    <file name="princemini-u20464-fr.jpg" crc="463367187" ref="index"/>
+    <file name="princemini-u20464-m-fr.png" crc="4129991580" ref="index"/>
+    <file name="sp-logo-listo.jpg" crc="44079096" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ppk-listo.jpg" crc="4093625322" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prince-sanisidro.jpg" crc="4148361335" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nuggets.jpg" crc="56251141" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brochure-haspro.jpg" crc="353054214" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="haslogo-mini-u28428-fr.jpg" crc="4080584997" ref="index"/>
+    <file name="haslogo-mini-u28428-m-fr.png" crc="119779654" ref="index"/>
+    <file name="whasm1.jpg" crc="36616787" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whasm1-u28479-m-fr.png" crc="3779741978" ref="index"/>
+    <file name="whasm2.jpg" crc="77090868" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whasm2-u28596-m-fr.png" crc="214667794" ref="index"/>
+    <file name="whasm3.jpg" crc="3758729525" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whasm3-u28608-m-fr.png" crc="4053511243" ref="index"/>
+    <file name="whasm4.jpg" crc="299805878" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whasm4-u28620-m-fr.png" crc="3777825978" ref="index"/>
+    <file name="whasm5.jpg" crc="3979845037" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whasm5-u30070-m-fr.png" crc="110746828" ref="index"/>
+    <file name="logowebhardsoft.jpg" crc="3896876338" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whas1.jpg" crc="94121129" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whas2.jpg" crc="488295803" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whas3.jpg" crc="284280979" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whas4.jpg" crc="29705399" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whas5.jpg" crc="196070637" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="polo.jpg" crc="515498120" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="keepdrinkingmini-u28757-fr.jpg" crc="4219820705" ref="index"/>
+    <file name="keepdrinkingmini-u28757-m-fr.png" crc="294059690" ref="index"/>
+    <file name="kdmini1-u28808-fr.jpg" crc="179573061" ref="index"/>
+    <file name="kdmini1-u28808-m-fr.png" crc="4156915784" ref="index"/>
+    <file name="kdmini2-u29008-fr.jpg" crc="83040323" ref="index"/>
+    <file name="kdmini2-u29008-m-fr.png" crc="64596000" ref="index"/>
+    <file name="kdmini3-u29019-fr.jpg" crc="3868820873" ref="index"/>
+    <file name="kdmini3-u29019-m-fr.png" crc="3992573014" ref="index"/>
+    <file name="kdmini4-u29045-fr.jpg" crc="3851116331" ref="index"/>
+    <file name="kdmini4-u29045-m-fr.png" crc="4029238666" ref="index"/>
+    <file name="kdmini5-u29056-fr.jpg" crc="61119646" ref="index"/>
+    <file name="kdmini5-u29056-m-fr.png" crc="519650577" ref="index"/>
+    <file name="keepsplash.jpg" crc="64012321" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="keepdrinking1.jpg" crc="235989416" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="keepdrinking2.jpg" crc="245891466" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="keepdrinking3.jpg" crc="206306647" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="keepdrinking4.jpg" crc="4135066329" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="keepdrinking5.jpg" crc="4037096800" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos01m.jpg" crc="287871019" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos01m-u29880-r-fr.png" crc="4141356295" ref="index"/>
+    <file name="fotos02m.jpg" crc="421216807" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos02m-u30707-r-fr.png" crc="4110796252" ref="index"/>
+    <file name="fotos03m.jpg" crc="3866991209" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos03m-u30733-r-fr.png" crc="4252089844" ref="index"/>
+    <file name="fotos04m.jpg" crc="174636551" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos04m-u30755-r-fr.png" crc="4236412371" ref="index"/>
+    <file name="fotos05m.jpg" crc="413079817" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos05m-u30780-r-fr.png" crc="214545837" ref="index"/>
+    <file name="fotos06m.jpg" crc="4119054312" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos06m-u30826-r-fr.png" crc="4060734055" ref="index"/>
+    <file name="fotos07m.jpg" crc="3796872042" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos07m-u30838-r-fr.png" crc="3812784138" ref="index"/>
+    <file name="fotos08m.jpg" crc="160028340" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos08m-u30844-r-fr.png" crc="438593277" ref="index"/>
+    <file name="fotos09m.jpg" crc="4184214899" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos09m-u30850-r-fr.png" crc="4191962294" ref="index"/>
+    <file name="fotos01.jpg" crc="474330968" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos02.jpg" crc="492209303" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos03.jpg" crc="101255187" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos04.jpg" crc="327920593" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos05.jpg" crc="374009803" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos06.jpg" crc="3914439137" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos07.jpg" crc="4069395124" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos08.jpg" crc="3889006760" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotos09.jpg" crc="372751050" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmail.svg" crc="359678886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmail_poster_.png" crc="387166132" ref="index"/>
+    <file name="whatsapp.svg" crc="4136969097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_poster_.png" crc="457858267" ref="index"/>
+    <file name="trigger_02.png" crc="4150352240" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trigger_01.png" crc="52725042" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prmr.svg" crc="365329119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prmr_poster_.png" crc="187429564" ref="index"/>
+    <file name="afteref.svg" crc="4131300276" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="afteref_poster_.png" crc="4095855298" ref="index"/>
+    <file name="psico.svg" crc="530627543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="psico_poster_.png" crc="268215085" ref="index"/>
+    <file name="lrico.svg" crc="4274035615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lrico_poster_.png" crc="177256993" ref="index"/>
+    <file name="aico.svg" crc="91574636" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aico_poster_.png" crc="3251988" ref="index"/>
+    <file name="anico.svg" crc="15652848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anico_poster_.png" crc="83316573" ref="index"/>
+    <file name="museico.svg" crc="347407820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="museico_poster_.png" crc="127324366" ref="index"/>
+    <file name="prezico.svg" crc="185274643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prezico_poster_.png" crc="4080555455" ref="index"/>
+    <file name="icico.svg" crc="286179920" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icico_poster_.png" crc="464675300" ref="index"/>
+    <file name="wordico.svg" crc="3913404791" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wordico_poster_.png" crc="3812915628" ref="index"/>
+    <file name="pptico.svg" crc="4183864760" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pptico_poster_.png" crc="3855092694" ref="index"/>
+    <file name="xcelico.svg" crc="465522742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xcelico_poster_.png" crc="174809349" ref="index"/>
+    <file name="spanish.svg" crc="4193935962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spanish_poster_.png" crc="157606456" ref="index"/>
+    <file name="english.svg" crc="299013448" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="english_poster_.png" crc="4120443533" ref="index"/>
+    <file name="logowunderman.svg" crc="4273109754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logowunderman_poster_.png" crc="275636218" ref="index"/>
+    <file name="logomem.jpg" crc="187575224" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logopopeyes.svg" crc="4219727548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logopopeyes_poster_.png" crc="63754509" ref="index"/>
+    <file name="logohush.png" crc="511535608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto-jpz-2019.jpg" crc="383050682" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rombcuadrado.svg" crc="3870397900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rombcuadrado_poster_.png" crc="4273543671" ref="index"/>
+    <file name="btn-menu.svg" crc="3925036169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btn menu_poster_.png" crc="3986750351" ref="index"/>
+  </folder>
+  <file name="index.html" crc="414780877" seo="true" mt="1567399139974" redirect="true"/>
+</manifest>
